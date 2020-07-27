@@ -16,7 +16,7 @@
 
 Hi, I'm Akshit Sadana.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
