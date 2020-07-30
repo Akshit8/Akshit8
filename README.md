@@ -43,7 +43,7 @@
 
 [helpnow]: https://gethelpnow.in
 [website]: https://github/akshit8.com
-[mail]: [mailto:akshitsadana@gmail.com]
-[twitter]: []
-[linkedin]: [https://www.linkedin.com/in/akshit-sadana-b051ab121/]
-[docker]: [https://hub.docker.com/u/akshit8]
+[mail]: mailto:akshitsadana@gmail.com
+[twitter]: 
+[linkedin]: https://www.linkedin.com/in/akshit-sadana-b051ab121/
+[docker]: https://hub.docker.com/u/akshit8
