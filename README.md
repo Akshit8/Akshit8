@@ -10,7 +10,7 @@
 
 <br />
 
-## Hi, I'm Akshit Sadana, a self-taught sever-side developer and product designer!
+## Hi, I'm Akshit Sadana, a self-taught sever-side developer!
 - 🔭 I’m currently helping build India's most reliable [ambulance network][helpnow]!
 - 🌱 I’m currently learning many things 🤣
 - 👯 I’m looking to learn Blockchain
