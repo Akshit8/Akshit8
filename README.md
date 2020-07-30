@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Node.js" width="32px" src="https://logo.clearbit.com/nodejs.org?size=300" />
+<img align="left" alt="Node.js" height="50px" width="50px" src="https://logo.clearbit.com/nodejs.org?size=300" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://logo.clearbit.com/docker.com?size=100" />
 
