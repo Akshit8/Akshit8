@@ -1,7 +1,7 @@
 ### Hi there, I'm Akshit 👋
 
 ## I love to do server-side dev, DevOps automation and Product-designing!
-- 🔭 I’m currently working on building India's most reliable [ambulance network][https://gethelpnow.in]!
+- 🔭 I’m currently helping build India's most reliable [ambulance network][helpnow]!
 - 🌱 I’m currently learning many things 🤣
 - 👯 I’m looking to learn Blockchain
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -36,7 +36,9 @@
 
 <img align="left" alt="kubernetes" height="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 
-<img align="left" alt="nginx" height="30px" width="30px" src="https://logo.clearbit.com/spotify.com?size=300" />
+<img align="left" alt="nginx" height="30px" width="30px" src="https://logo.clearbit.com/nginx.com?size=300" />
+
+<img align="left" alt="nginx" height="30px" width="30px" src="https://logo.clearbit.com/travis-ci.com?size=300" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -48,4 +50,6 @@
 <br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshit8&show_icons=true&hide_border=true" />
+
+[helpnow]: https://gethelpnow.in
 
