@@ -37,9 +37,12 @@
 <br />
 <br />
 
-<img align="left" alt="akshit Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshit8&show_icons=true&hide_border=true&count_private=true" />
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->thisajskjasd
+<!-- <img align="left" alt="akshit Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshit8&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="left" alt="akshit top-lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" alt="akshit top-lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> -->
 
 [helpnow]: https://gethelpnow.in
 [website]: https://github/akshit8.com
