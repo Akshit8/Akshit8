@@ -1,11 +1,17 @@
 ### Hi there, I'm Akshit 👋
 
+<br />
+
 [<img align="left" alt="akshit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="akshit | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+
 [<img align="left" alt="akshit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="akshit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="akshit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 
-<br />
 <br />
 
 ## Hi, I'm Akshit Sadana, a self-taught sever-side developer and product designer!
@@ -53,6 +59,7 @@
 
 [helpnow]: https://gethelpnow.in
 [website]: https://github/akshit8.com
+[mail]: [mailto:akshitsadana@gmail.com]
 [twitter]: []
 [linkedin]: [https://www.linkedin.com/in/akshit-sadana-b051ab121/]
 [docker]: [https://hub.docker.com/u/akshit8]
