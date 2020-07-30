@@ -11,11 +11,11 @@
 <br />
 
 ## Hi, I'm Akshit Sadana, a self-taught sever-side developer!
-- 🔭 I’m currently helping build India's most reliable [ambulance network][helpnow]!
+- 🔭 I’m currently contributing in India's largest and most reliable [ambulance network][helpnow]!
 - 🌱 I’m currently learning many things 🤣
-- 👯 I’m looking to learn Blockchain
+- 💬 Talk to me about scaling your business with tech
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I once did Machine Learning :satisfied:
+- ⚡ Fun fact: I once tried Machine Learning :satisfied:
 
 
 ### Languages and Tools:
