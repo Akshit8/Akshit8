@@ -41,7 +41,11 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   2 hrs 14 mins   ████████████████░░░░░░░░░   63.63 % 
+JSON         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+YAML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+HTML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 <!--END_SECTION:waka-->
 <!-- <img align="left" alt="akshit Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshit8&show_icons=true&hide_border=true&count_private=true" />
